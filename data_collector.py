@@ -55,7 +55,7 @@ def collect_data(port, baud, session, output_file, duration):
         output_file: Path to output CSV file
         duration: Seconds to collect (0 = until Ctrl+C)
     """
-    # Create output directory if needed
+    
     output_dir = os.path.dirname(output_file)
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
