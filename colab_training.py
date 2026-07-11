@@ -1,8 +1,3 @@
-# ==============================================================================
-# Wind Turbine One-Class SVM Training Notebook — Google Colab
-# Team Tech Titans — Manmath & Vishal
-# ==============================================================================
-#
 # INSTRUCTIONS:
 # 1. Open Google Colab (colab.research.google.com)
 # 2. Create a new notebook
