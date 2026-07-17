@@ -2,8 +2,6 @@
 Data Collector — Standalone script for collecting NORMAL operating data from Arduino.
 Used by the hardware team to build training datasets for the One-Class SVM model.
 
-One-Class SVM only needs normal operating data for training.
-No --label argument needed — all collected data is assumed normal.
 
 Usage:
     python data_collector.py --port COM3 --session normal_load
