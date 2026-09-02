@@ -70,18 +70,7 @@ wind-turbine-monitor/
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
-## 👥 Team Division
 
-| Member | Responsibilities |
-| :--- | :--- |
-| **Manmath** | 🛠️ Backend Architecture (FastAPI), Database, ML Inference Pipeline |
-| **Vishal** | 🎨 Frontend Design, Dashboard UI/UX, Data Visualization |
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" alt="Handshake" />
-</div>
-
----
 
 ## ⚡ Getting Started
 
