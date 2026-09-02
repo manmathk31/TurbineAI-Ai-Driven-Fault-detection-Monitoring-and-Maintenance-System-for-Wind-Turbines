@@ -48,30 +48,6 @@ Our ML model accurately categorizes turbine health into four distinct states:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider">
 
-## 🏗️ Architecture & Phases
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" alt="Gear" />
-</div>
-
-The project is structured into two seamless phases:
-
-1.  **Phase 1 (Simulation):** Full web application driven by a synthetic sensor data simulator paired with our trained ML models.
-2.  **Phase 2 (Hardware Integration):** Hot-swapping the simulator for a live Arduino serial stream—zero code changes required to the core pipeline.
-
-### 💻 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</div>
-
----
 
 ## 📁 Repository Structure
 
